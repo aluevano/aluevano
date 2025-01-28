@@ -28,3 +28,5 @@ A **business-savvy technologist** with a peculiar blend of hands-on technical ex
 - Craft successful strategies to **capture savings, increase capability, and enhance service quality**.  
 
 🌍 **Mission**: To build and share technology solutions that inspire, enable growth, and make a lasting impact.  
+
+Public GPG fingerprint: F512BEECE31062BA17F281941A937A3FD6C62D08
